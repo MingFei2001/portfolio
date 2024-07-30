@@ -2,16 +2,14 @@
 This repository contains the source code for my portfolio website, built using Node.js for the backend and Svelte for the frontend. The website showcases my projects, skills, and experiences.
 
 ## Table of Content
-- Features
-- Technologies Used
-- Getting Started
-    - Prerequisites
-    - Installation
-    - Running the Application
-- Folder Structure
-- Contributing
-- License
-- Contact
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Running the Application](#running-the-application)
+- [Folder Structure](#folder-structure)
+- [License](#license)
+- [Contact](#contact)
 
 ## Technologies Used
 - Frontend: Svelte, HTML, Tailwind CSS
@@ -20,11 +18,13 @@ This repository contains the source code for my portfolio website, built using N
 - Others: JavaScript, REST API
 
 ## Getting Started
+
+### Prerequisites
 Ensure you have the following installed on your machine:
 - Node.js
 - npm
 
-## Installation
+### Installation
 1. Clone the repositories
 ```bash
 git clone https://github.com/MingFei2001/portfolio.git
@@ -41,7 +41,7 @@ cd ../frontend
 npm install
 ```
 
-## Running the application
+### Running the application
 1. Start the backend server
 ```bash
 cd backend
