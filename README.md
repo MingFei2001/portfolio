@@ -1,6 +1,18 @@
 # Portfolio Website
 This repository contains the source code for my portfolio website, built using Node.js for the backend and Svelte for the frontend. The website showcases my projects, skills, and experiences.
 
+## Table of Content
+- Features
+- Technologies Used
+- Getting Started
+    - Prerequisites
+    - Installation
+    - Running the Application
+- Folder Structure
+- Contributing
+- License
+- Contact
+
 ## Technologies Used
 - Frontend: Svelte, HTML, Tailwind CSS
 - Backend: Node.js, Express.js
